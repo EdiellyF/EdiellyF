@@ -25,4 +25,4 @@ Me chamo Edielly, tenho 17 anos de idade, faço informática para Internet no IF
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux&labelColor=0000)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux&)&nbsp;
