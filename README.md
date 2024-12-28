@@ -36,14 +36,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
-<div align="center">
-  <a href="mailto:ediellyferreiradecarvalho@gmail.com">
-  <img align="center"  height="80" width="80" src="https://github.com/EdiellyF/EdiellyF/assets/125711085/ffee06bb-3088-43c1-b57f-fabfdb2235e3">
-  </a>
-  <a  href="https://www.linkedin.com/in/edielly-ferreira-de-carvalho-2a388a2b0/" target=_blank>
-  <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-  </a>
-</div>
 
 
 
