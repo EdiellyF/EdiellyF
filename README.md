@@ -33,7 +33,7 @@ Feel free to explore my repositories and reach out for collaboration opportuniti
 
 🌱 I’m currently learning **Spring Boot, Java, TypeScript, and more about web frameworks**
 
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ediellyf)**
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ediellyferreiradecarvalho)**
 
 ⚡ Fun fact: I enjoy solving complex problems and learning new technologies in my free time.
 
